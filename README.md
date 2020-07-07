@@ -1,6 +1,6 @@
 # SpringBoot-SocialMediaService
 Social Media Services Based on Spring Boot 2.3.1
-Spring Boot Hacks:
+Spring Boot Hacks Tried:
 1. Proper HTTP method usage
 2. ControllerAdvice annotation to handle common exception object throughout the application
 3. Input parameters validated using @Valid
